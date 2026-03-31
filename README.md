@@ -42,7 +42,7 @@ PHPerKaigi mini 開催のホスト企業を募集しています。
   * 注文・配布などはホスト企業さまにてご実施ください
 * PHPerKaigi miniの開催について、ホスト企業さまからPHPerKaigi運営へのスポンサー費用などの支払いは発生しません
 
-立候補頂ける企業さまは [これからのPHPerKaigi mini]() ページからタイトルに *募集中* とあるもののコメント欄で @hasegawa-tomoki を入れる形で以下とともにコメントしてください。  
+立候補頂ける企業さまは [これからのPHPerKaigi mini](https://github.com/PHPerKaigi/PHPerKaigi-mini/issues) ページからタイトルに *募集中* とあるもののコメント欄で @hasegawa-tomoki を入れる形で以下とともにコメントしてください。  
 
 * 企業名
 * 希望日
